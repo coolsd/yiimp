@@ -56,6 +56,7 @@ function yaamp_get_algos()
 		'x11',
 		'x11evo',
 		'x11k',
+		'x11kvs',
 		'x12',
 		'x13',
 		'x14',
